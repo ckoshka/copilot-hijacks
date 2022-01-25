@@ -1,5 +1,4 @@
-NOTE: This requires you to actively engage in a dialogue with Copilot. All technical specifics including code were written by Copilot, all of the filler words (i.e "Let's do X") were written by me. Type partial sentences and let it complete them for you, it's quicker than typing out a full question.
-
+NOTE: This requires you to actively engage in a dialogue with Copilot. All technical specifics including code were written by Copilot, all of the filler words (i.e "Let's do X") were written by me. Type partial sentences and let it complete them for you, it's quicker than typing out a full question. Make sure to set the title of the document to "vue-101-tutorial.md" or whatever framework you're trying to learn. This general structure works for pretty much anything, just replace "Vue" in the first part with the name of the framework/programming language. **Look at the raw text for this, formatting is essential**
 # Vue in 90 Minutes
 ## Tutorial 1: Getting Started
 
